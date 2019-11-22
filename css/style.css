@@ -14,3 +14,8 @@ img:hover {
     transform: scale(1.1);
     transition: .1s ease-in-out;
 }
+
+
+.card-header {color:hover;
+    background: #ea5374d8;
+}
