@@ -16,6 +16,7 @@ img:hover {
 }
 
 
-.card-header {color:hover;
-    background: #6f53ea5e;
+.card-header:hover {
+    color: hover;
+    background: #53ea92ab;
 }
